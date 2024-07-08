@@ -1,0 +1,1 @@
+console.log("Rączki jak z bursztynu")

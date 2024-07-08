@@ -1,0 +1,1 @@
+console.log ('bober k***, zobaczcie jakie BYDLE')

@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "raczki":"node raczki_jak_z_bursztynu.js",
+    "hello":"node hello-world.js",
+    "bye-world":"node bye-world.js",
+    "bober": "node test-world.js"
+    
+  },
+  "author": "Maya_M",
+  "license": "ISC"
+}
